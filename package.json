@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "web-dev-server"
+  },
+  "dependencies": {
+    "@lit/reactive-element": "^1.0.0-rc.2",
+    "@web/dev-server-esbuild": "^0.2.14",
+    "lit": "^2.0.0-rc.2",
+    "lit-element": "^3.0.0-rc.2",
+    "lit-html": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.22"
+  }
+}

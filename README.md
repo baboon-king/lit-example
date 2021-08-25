@@ -1,4 +1,4 @@
-# a lit  Example
+# a lit Example
 
 # setup
 
@@ -16,6 +16,6 @@ yarn
 ```shell
 npm run dev
 # or
-yarn dev◊◊
+yarn dev
 
 ```
